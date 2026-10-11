@@ -3,7 +3,7 @@
 Course projects completed for **Machine Learning for Manufacturing** at  
 **Case Western Reserve University**.
 
-**Author:** BATHLOMEW A. EBIKA
+**Author:** PEACE .C EBIKA
 
 This repository contains Jupyter Notebook implementations of machine-learning
 methods applied to manufacturing process data.
